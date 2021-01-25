@@ -47,7 +47,7 @@ internal object Util {
         return maxSoFar
     }
 
-    // main function
+    // com.company.rotten_oranges.main function
     @JvmStatic
     fun main(args: Array<String>) {
         val A = intArrayOf(-2, 1, -3, 4, -1, 2, 1, -5, 4)

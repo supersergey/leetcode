@@ -18,8 +18,8 @@ class Solution2 {
 }
 
 fun main() {
-//    println(Solution2().maxSubArray(intArrayOf(-2, 1, -3, 4, -1, 2, 1, -5, 4)))
-//    println(Solution2().maxSubArray(intArrayOf(-2, 1)))
+//    println(com.company.rotten_oranges.Solution2().maxSubArray(intArrayOf(-2, 1, -3, 4, -1, 2, 1, -5, 4)))
+//    println(com.company.rotten_oranges.Solution2().maxSubArray(intArrayOf(-2, 1)))
 
     var s: Double = 0.0
     for(i in 0..187) {
